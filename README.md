@@ -10,7 +10,7 @@
 ### 🛠️ Maintaining Legacy Codebase  
 - Experienced in maintaining and improving legacy codebases to ensure stability and scalability.  
 
-# 👋 Hi, I'm ATIKAH HUSNA!  
+# 👋 Hi, I'm Nor Atikah Husna!  
 
 Welcome to my GitHub profile! I'm a passionate web developer with interests in web development, database management, and project management.  
 
@@ -23,9 +23,9 @@ Welcome to my GitHub profile! I'm a passionate web developer with interests in w
 
 ## 📊 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)  
+![Ieka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ieka13&show_icons=true&count_private=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ieka13&layout=compact&theme=radical)  
 
 ---
 
